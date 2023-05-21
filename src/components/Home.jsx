@@ -11,7 +11,7 @@ const Home = () => {
           Hi, my name is
         </p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[black]'>
-          John Doe
+          Cameron Dassow
         </h1>
         <div>
         <img className=' h-[400px] object-contain m-auto p-8' src={avi} alt='img'  />

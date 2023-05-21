@@ -14,11 +14,7 @@ const About = () => {
 
           <div className='max-w-[600px] w-full grid text-2xl gap-4 px-4'>
             <div>
-              <p>I am a front-end web developer that currently
-                resides in Torquay, Devon,UK.
-                 I have developed many projects of frontend mainly using javascript and it's frameworks.
-                I have also developed a few projects using PHP and Laravel.
-                The major applications are DJ applications to E-commerce platforms.
+              <p>I am a student at the University of Northwestern coding bootcamp. I have worked on many different types of projects from basic html to full stack web applications.
                </p>  
             </div>
           </div>

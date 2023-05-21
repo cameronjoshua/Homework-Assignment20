@@ -20,7 +20,7 @@ return (
               <div className='hover:scale-110 duration-500  '>
               <a
               className='min-w-[30px] flex justify-between items-center  text-gray-300'
-              href='http://www.github.com/johnDoe' > {/* link to github account*/}
+              href='http://www.github.com/cameronjoshua' > {/* link to github account*/}
               <FaGithub size={70} />
               <p>Github account</p>
             </a>
@@ -29,7 +29,7 @@ return (
               <div className='hover:scale-110 duration-500 '>
               <a
               className='min-w-[30px] flex justify-between items-center  text-gray-300'
-              href='https://www.linkedin.com/in/johnDoe/'> {/* link to linkedin account*/}
+              href='https://www.linkedin.com/in/camerondassow/'> {/* link to linkedin account*/}
             
               <FaLinkedin size={70} />
               <p>Linkedin account</p>
@@ -40,7 +40,7 @@ return (
               <div className='hover:scale-110 duration-500'>
               <a
               className='min-w-[30px] flex justify-between items-center text-gray-300'
-              href='mailto:johnDoe@gmail.com'> {/* link to gmail account*/}
+              href='mailto:cameronda145@gmail.com'> {/* link to gmail account*/}
             
               <HiOutlineMail size={70} />
               <p>Gmail account</p>
